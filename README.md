@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=0_mI8x1YGEE
+
+
 # Servidor de Lightning Address y Nostr Zaps
 
 Este proyecto es una solución de código abierto para que puedas alojar tu propio servidor de **Lightning Address** (`[tunombre]@[tu-web.com]`). Permite recibir pagos de Bitcoin a través de la Lightning Network de forma sencilla y se integra perfectamente con el protocolo Nostr para recibir **Zaps** (NIP-57).
